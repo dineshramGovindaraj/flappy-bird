@@ -11,7 +11,7 @@ git clone https://github.com/dineshramGovindaraj/flappy-bird
 
 2. Open the `index.html` file in a web browser (Chrome recommended) to play the game.
 
-3. Use the **Spacebar** to make the bird flap and navigate through the pipes.
+3. Use the **Up-arrow** to make the bird flap and navigate through the pipes.
 
 4. Try to achieve the highest score by passing through as many pipes as possible!
 
