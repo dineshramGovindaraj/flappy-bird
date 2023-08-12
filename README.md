@@ -1,6 +1,5 @@
 # Flappy Bird Game - JavaScript Edition
 
-![Flappy Bird](flappy_bird_screenshot.png)
 
 Welcome to the Flappy Bird Game - JavaScript Edition repository! This is a recreation of the classic Flappy Bird game using HTML, CSS, and JavaScript.
 
